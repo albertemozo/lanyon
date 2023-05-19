@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Kali Ma Decomposition Anti-pattern
-tags: microservices anti-patterns
+tags: microservices monolith-decomposition anti-patterns
 ---
 
 ![Kali Ma](/assets/images/kali-ma.gif){:style="display:block; margin-left:auto; margin-right:auto"}
