@@ -4,7 +4,7 @@ tagline:             'This is learning by teaching.'
 description:         'Lessons and discoveries from my software crafting learning path.'
 url:                 https://albertemozo.github.io/
 baseurl:             ''
-paginate:            5
+paginate:            8
 permalink:           pretty
 
 # About/contact
