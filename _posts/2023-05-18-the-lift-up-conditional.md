@@ -2,9 +2,12 @@
 layout: post
 title: The Lift-Up Conditional
 tags: refactoring
+excerpt_separator: <!--more-->
 ---
 
 The *Lift-Up Conditional* is a refactoring technique useful in those situations when a conditional logic consisting of several cases is mixed in the shape of a mess of nested conditions.
+
+<!--more-->
 
 I came across it recently thanks to the local Coding Dojo organized by [CraftersVigo](https://twitter.com/CraftersVigo), and I must confess I was left with my mouth open.
 

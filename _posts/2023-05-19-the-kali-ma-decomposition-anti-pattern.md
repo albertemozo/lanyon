@@ -2,6 +2,7 @@
 layout: post
 title: The Kali Ma Decomposition Anti-pattern
 tags: microservices monolith-decomposition anti-patterns
+excerpt_separator: <!--more-->
 ---
 
 ![Kali Ma](/assets/images/kali-ma.gif){:style="display:block; margin-left:auto; margin-right:auto"}
@@ -9,6 +10,8 @@ tags: microservices monolith-decomposition anti-patterns
 Do you remember the scene from Indiana Jones and the Temple of Doom? The evil Mola Ram sticks his hand inside a poor guy's chest and pulls out his heart while he elevates a prayer to Kali Ma. For some reason, the heart keeps beating and the guy survives such a trauma.
 
 Pretty disgusting, to be honest. But you know what? Many people in the software industry seem to like the idea, so they try the same approach in their own system when it comes to dealing with monolithic applications that need to be decomposed into smaller pieces.
+
+<!--more-->
 
 This sophisticated technique consists in selecting a core part of the system, buried deep in the monolith, connected to a thousand other components by direct invocations, shared data models, and who knows what more; and trying to extract it directly to a shiny new microservice.
 
